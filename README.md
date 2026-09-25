@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&amp;size=30&amp;pause=1000&amp;color=7950D6&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=my-coach;AI+Personal+Teacher+%26+Learning+Path;Discover+%7C+Plan+%7C+Learn+%7C+Grow" alt="my-coach - AI Personal Teacher and Learning Path" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&amp;size=30&amp;pause=1000&amp;color=7950D6&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=my-coach;AI+Personal+Teacher+%26+Learning+Path;Discover+%7C+Plan+%7C+Learn+%7C+Grow" alt="MY COACH - AI Personal Teacher and Learning Path" />
 </p>
 
 <p align="center">
